@@ -31,7 +31,7 @@ It will basically follow the second part of the class videos.
 
 We will use the `hyf-homework` repo.
 
-1. when you are on `master` branch, create a branch named `git_exercise_2`;
+1. when you are on `master` branch, create a branch named `git_exercise_2` and move to it;
 2. create a file named `my_homework.txt` inside `hyf-homework/Git/week1/class_playground`;
 3. add some text to the `my_homework.txt` file;
 4. add and commit the changes in the `my_homework.txt` file;
@@ -55,7 +55,7 @@ In this exercise you will get an error when pushing to github and you will have 
 We will use the `hyf-homework` repo.
 
 1. on your `hyf-homework` repo go to the branch `master`
-2. create a branch named `git_exercise_3`;
+2. create a branch named `git_exercise_3` and move to it;
 3. on the folder `hyf-homework/Git/week1/class_playground` create a file named `colors.txt`;
 4. add two colors to the file `colors.txt`, one per line;
 5. add and commit the changes in the `colors.txt` file;
@@ -73,7 +73,7 @@ In this exercise you will get a merge conflict and you will have to solve it.
 We will use the `hyf-homework` repo.
 
 1. on your `hyf-homework` repo go to the branch `master`
-2. create a branch named `git_exercise_4`;
+2. create a branch named `git_exercise_4` and move to it;
 3. on the folder `hyf-homework/Git/week1/class_playground` create a file named `movies.txt`;
 4. add two movie names to the file `movies.txt`, one per line;
 5. add and commit the changes in the `movies.txt` file;

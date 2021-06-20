@@ -211,26 +211,17 @@ git pull --allow-unrelated-histories
 
 ## 4.6 Generating the ssh keypair
 
-If you don't want to insert your username and password every time you do `git pull` or `git push`, you can create an ssh keypair.
-
-
- For Windows MSysGit/GitBash command prompt use
-```
-$ ssh-keygen.exe -C "username@email.com" -t rsa
-```
-
-
-For Linux/MAC, use
+To create an ssh keypair start by opening GitBash (in Windows) or the terminal (in Linux and Mac) and type:
 
 ```
-$ ssh-keygen -C "username@email.com" -t rsa
+$ ssh-keygen -t ed25519 -C "your_email@example.com"
 ```
 
 Supply your Github email address instead of this fake one. 
-Accept the default location storage (default file) for the keys. When prompted for a passphrase, make up one, and don't forget it! This is your private key, do not share it with anyone.
-You will have id\\\_*rsa and id\\\_rsa.pub files in the directory at the following path /c/Users/<your_user_name>/.ssh/
+Accept the default location storage (default file) for the keys. When prompted for a passphrase either leave it empty or make up one, and don't forget it! This is your private key, do not share it with anyone.
+You will have an `id_ed25519.pub` file in the directory  `~/.ssh/`, where `~/` is your home directory. 
 
- You want to copy the contents of the id\_rsa.pub (open it with a simple text editor or use the command cat in the command line).  After you copy the contents of the id\_rsa.pub file, go to the GitHub account, go to the settings find SSH and GPG keys option and add New SSH key.
+You want to copy the contents of the `id_ed25519.pub` (open it with a text editor or use the command `cat id_ed25519.pub` in the command line to print out the contents of the file).  After you copy the contents of the `id_ed25519.pub` file, go to your GitHub account, go to the settings, find SSH and GPG keys option and add New SSH key.
 
 
 # 5. Pull requests

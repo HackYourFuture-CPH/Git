@@ -40,7 +40,7 @@ Git:
 ## Class videos
 
 Since this is a flipped classroom, where you prepare the class during the week and then the Sunday 
-session is focused on exercises and answering your questions, it is ***extremely important*** that you watch the following videos:
+session is focused on exercises and answering your questions, it is ***extremely important*** that you watch the following videos (you do not need to reproduce all the steps steps, just focus on trying to understand what's happening):
 
  - [introduction to version control and git](https://drive.google.com/file/d/1lHO7AjtuADB7taS7HrukKL0PLhKUjJUj/view?usp=sharing);
  - [introduction to the command line](https://drive.google.com/file/d/1DT6jkB-VFemyKZYhpAzXtNKC4Fm2soNy/view?usp=sharing) ;

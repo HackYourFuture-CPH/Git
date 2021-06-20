@@ -8,7 +8,7 @@ You will use the `hyf-homework` repository on your computer to do the exercise. 
 
 1. Go to your `hyf-homework` repo on your computer
 2. Go to branch `master`
-3. Create a branch for your homework, named `git/week1`, and move to that branch
+3. Create a branch for your homework, named `git-week1`, and move to that branch
 4. Inside the folder `hyf-homework/git/week1` create 3 new files:
    - a file named `my_favorite_food.txt`, inside the file write your favorite food recipe (you can just find a random recipe on google and paste it in the file ;) 
    - a file named `my_second_favorite_food.txt`, inside the file write the recipe for your second favorite food
@@ -17,7 +17,7 @@ You will use the `hyf-homework` repository on your computer to do the exercise. 
 6. Add and commit the file `my_second_favorite_food.txt`;
 7. Add and commit the file `countries.txt`;
 8. Push your changes into your `hyf-homework` repository on Github.
-9. Go to Github and create a pull request (PR) from the branch `git/week1` to `master`
+9. Go to Github and create a pull request (PR) from the branch `git-week1` to `master`
 10. Copy the link, post it on slack and tag your mentors, we will then check your homework and ask you to do a few more tasks :)
 
 
