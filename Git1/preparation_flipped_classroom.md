@@ -59,4 +59,4 @@ And if you have a some extra time, you can read the following articles:
  - Git and Github in Plain English: https://blog.red-badger.com/2016/11/29/gitgithub-in-plain-english
 
 
- We'll be roughly following the materials here, in case you want to take a look:  https://github.com/HackYourFuture-CPH/Git/blob/main/week1/review.md
+ We'll be roughly following the [materials here](/Git1/review.md), in case you want to take a look.

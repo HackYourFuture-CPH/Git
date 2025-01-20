@@ -7,13 +7,9 @@ We want to use this repository as an archive of course material (slides/tutorial
 
 Also check out our Git [playlist](https://www.youtube.com/playlist?list=PLVYDhqbgYpYUGxRdtQdYVE5Q8h3bt6SIA) for tutorials
 
-
 | Module | Learning goals | Preparation | Lesson Plan | Homework |
 | ---- | ----- | ---- |----------|--------|
-| 1. |  Introduction to Git <br> Git vs GitHub <br> Pull Requests <br> Commits <br> Branches  | [Preparation](/Git1/preparation.md) | [Lesson Plan](/Git1/lesson_plan.md) | [Homework](/week1/homework.md) |
-| 2. |  Advanced Git and Preparation for the Final Project | [Preparation](/week2/preparation.md) | [Lesson Plan](/Git2/lesson_plan.md) | [Homework](/Git2/homework.md) |
+| 1. |  Introduction to Git <br> Git vs GitHub <br> Pull Requests <br> Commits <br> Branches  | [Preparation](/Git1/preparation.md) | [Lesson Plan](/Git1/lesson_plan.md) | [Homework](/Git1/homework.md) |
+| 2. |  Advanced Git and Preparation for the Final Project | [Preparation](/Git2/preparation.md) | [Lesson Plan](/Git2/lesson_plan.md) | [Homework](/Git2/homework.md) |
 
 Please check the material shared on Preparation, Lesson Plan and Homework ⬆️ 
-
-
-
