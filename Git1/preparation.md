@@ -39,10 +39,9 @@ Git:
  Optionally, if you are using Windows and want to use git bash on VSCode, check the instructions in the first answer [here](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal) on how to do that. If you are using linux or macOS, it works right out of the box.
 
 
-We'll be roughly following the materials here, in case you want to take a look:  https://github.com/HackYourFuture-CPH/Git/blob/main/week1/review.md
-
+We'll be roughly following the [materials here](/Git1/review.md), in case you want to take a look.
 
 
 # Flipped classroom material
 
-Check the flipped classroom material [here](/week1/preparation_flipped_classroom.md)
+Check the flipped classroom material [here](/Git1/preparation_flipped_classroom.md)
