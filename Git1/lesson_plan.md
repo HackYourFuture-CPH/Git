@@ -2,7 +2,7 @@
 
 ## Lesson materials
 These are some examples of previously created materials by mentors that you can use yourself, or for inspiration.
-- [Introduction to Git]([Introduction to Git](https://radical-somersault-80b.notion.site/Introduction-to-Git-184dc1cafb9480ffad0de16e6ea8b379)) (by [@aina21] (https://www.github.com/aina21 on Team 31)
+- [Introduction to Git](https://radical-somersault-80b.notion.site/Introduction-to-Git-184dc1cafb9480ffad0de16e6ea8b379) (by [@aina21](https://www.github.com/aina21), Team 31)
 
 
 This lesson plan is meant for a traditional class (vs. flipped classroom) where the mentor teaches the contents with breaks for exercises.
