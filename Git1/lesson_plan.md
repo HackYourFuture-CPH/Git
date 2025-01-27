@@ -4,7 +4,7 @@
 These are some examples of previously created materials by mentors that you can use yourself, or for inspiration.
 - [Introduction to Git](https://radical-somersault-80b.notion.site/Introduction-to-Git-184dc1cafb9480ffad0de16e6ea8b379) (by [@aina21](https://www.github.com/aina21), Team 31)
 
-
+## Lesson outline
 This lesson plan is meant for a traditional class (vs. flipped classroom) where the mentor teaches the contents with breaks for exercises.
 The material to be taught is the same as in the flipped classroom though.
 The exercises suggested for the flipped classroom can be found [here](./class_exercises.md).
