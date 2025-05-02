@@ -6,7 +6,7 @@ The main preparation for this module is that you collect all the questions and d
 ## Flipped classroom material
 
 
- - **[Preparation Flipped Classroom](/week2/preparation_flipped_classroom.md)** - contains what the students should do before coming to class with Flipped Class room setting
+ - **[Preparation Flipped Classroom](/Git2/preparation_flipped_classroom.md)** - contains what the students should do before coming to class with Flipped Class room setting
 
 
 
